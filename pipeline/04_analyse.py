@@ -230,7 +230,10 @@ def figure_map(frame: pd.DataFrame, stations: pd.DataFrame) -> None:
     schemes = frame.groupby(["scheme", "lat", "lon"], as_index=False).agg(price=("price_per_sqm", "median"), n=("price", "size"))
     fig, ax = plt.subplots(figsize=(9, 8), facecolor="white")
     order = schemes["price"].rank(pct=True)
-    scatter = ax.scatter(schemes["lon"], schemes["lat"], c=order, cmap="viridis", s=np.clip(schemes["n"] / 3, 4, 40), alpha=0.75, linewidths=0)
+    # Single-hue sequential ramp from the Column seafoam scale, light to deep,
+    # so magnitude reads the same way here as in the other charts.
+    ramp = matplotlib.colors.LinearSegmentedColormap.from_list("seafoam", ["#94efb7", "#44b48b", "#167e6c", "#023247"])
+    scatter = ax.scatter(schemes["lon"], schemes["lat"], c=order, cmap=ramp, s=np.clip(schemes["n"] / 3, 4, 40), alpha=0.8, linewidths=0)
     ax.scatter(stations["lon"], stations["lat"], marker="s", s=10, color=ORANGE, label="Rail station", linewidths=0)
     ax.set_aspect("equal")
     ax.set_xlabel("Longitude", color=STEEL); ax.set_ylabel("Latitude", color=STEEL)

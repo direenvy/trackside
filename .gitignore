@@ -16,3 +16,10 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Node
+frontend/node_modules/
+frontend/.next/
+# synced from pipeline/outputs by the predev/prebuild hooks
+frontend/public/results/
+frontend/.vercel

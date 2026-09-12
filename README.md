@@ -7,7 +7,7 @@ from Wikipedia, 5,260 schemes geocoded through OpenStreetMap, and a regression t
 neighbourhood, property type, tenure, year, size and floor level fixed — so the distance
 coefficient is not just "central Kuala Lumpur costs more".
 
-![The station premium within 400 m, split by territory and segment: near zero in Kuala Lumpur, +7.4% for strata and +12.9% for landed in Selangor and Putrajaya](pipeline/outputs/figures/premium_by_territory.png)
+![Trackside report page: the station premium within 400 m split by territory and segment — near zero in Kuala Lumpur, +7.4% strata and +12.9% landed in Selangor and Putrajaya](docs/hero.png)
 
 ---
 
@@ -151,7 +151,8 @@ pipeline/
   04_analyse.py          join, distance, regression -> outputs/
   data/geocode_cache.json   every lookup ever made, committed so nobody re-runs five hours
   outputs/results.json      every estimate with its interval and n
-  outputs/figures/          the three charts
+  outputs/figures/          the four charts
+frontend/                   static Next.js report of the results
 ```
 
 ## Running it
@@ -189,6 +190,20 @@ Analysis, under a minute:
 ```bash
 cd pipeline && python 04_analyse.py
 ```
+
+## The page
+
+A static Next.js report of the same results — the territory chart, the full band table, an
+interactive raw-price chart and the map — built on the same design system as the other
+projects. It reads `pipeline/outputs/` at build time and has no runtime dependency on Python.
+
+```bash
+cd frontend && npm install && npm run dev
+```
+
+Then open http://localhost:3000. The `predev` and `prebuild` hooks copy the latest pipeline
+outputs into `public/` automatically, so re-running the analysis and refreshing the page is
+all it takes to see new numbers.
 
 ## Limitations
 

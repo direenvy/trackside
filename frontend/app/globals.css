@@ -1,0 +1,243 @@
+@import "tailwindcss";
+
+/* Column design system.
+   Deliberately light-only: the reference is a light system, so the page paints
+   its own surfaces rather than following the OS. */
+:root {
+  color-scheme: light;
+
+  --color-indigo-navy: #111a4a;
+  --color-midnight-ink: #011821;
+  --color-slate-ink: #3b3e47;
+  --color-steel: #7c7f88;
+  --color-fog: #a9acb6;
+  --color-mist: #cbcccf;
+  --color-silver-lining: #e3e4e8;
+  --color-cloud-canvas: #f6f6f8;
+  --color-pure-white: #ffffff;
+  --color-charcoal: #232730;
+  --color-obsidian: #12161e;
+  --color-signal-orange: #ec652b;
+  --color-peach-glow: #f2936b;
+  --color-seafoam-600: #44b48b;
+  --color-seafoam-700: #167e6c;
+  --color-seafoam-400: #94efb7;
+  --color-deep-sea: #023247;
+  --color-sky-cyan: #88deeb;
+
+  --surface-page: var(--color-cloud-canvas);
+  --surface-card: var(--color-pure-white);
+
+  /* Steel measures 4.0:1 on white, so it carries labels and metadata only.
+     Body copy that has to be read sits on Slate Ink at 9.9:1. */
+  --text-heading: var(--color-indigo-navy);
+  --text-body: var(--color-slate-ink);
+  --text-label: var(--color-steel);
+  --text-faint: var(--color-fog);
+
+  --border-hairline: var(--color-silver-lining);
+
+  /* Seafoam is the data voice: chart marks, figures, code. */
+  --data: var(--color-seafoam-700);
+  --data-soft: var(--color-seafoam-400);
+
+  /* Signal Orange is the one high-attention accent, spent on the fraud verdict. */
+  --accent: var(--color-signal-orange);
+  --accent-surface: var(--color-peach-glow);
+
+  --radius: 8px;
+  --page-max-width: 1200px;
+  --section-gap: 72px;
+  --card-padding: 24px;
+
+  --shadow-card:
+    rgba(18, 22, 30, 0.024) 0px 1px 4px 0px,
+    rgba(18, 22, 30, 0.05) 0px 1px 0px 0px,
+    rgba(18, 22, 30, 0.024) 0px 0px 0px 1px;
+  --shadow-button:
+    rgba(17, 26, 74, 0.1) 0px 1px 3px 0px,
+    rgba(17, 26, 74, 0.05) 0px 1px 0px 0px,
+    rgba(255, 255, 255, 0.5) 0px 1px 0px 0px inset,
+    rgba(255, 255, 255, 0.5) 0px 1px 4px 0px inset;
+  --shadow-lift:
+    rgba(17, 26, 74, 0.05) 0px 8px 16px 0px,
+    rgba(17, 26, 74, 0.05) 0px 4px 8px 0px;
+}
+
+body {
+  background: var(--surface-page);
+  color: var(--text-body);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mono {
+  font-family: var(--font-jetbrains-mono), ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Cards are the white top of the surface stack, on an 8px radius with a
+   hairline that doubles as a whisper of shadow. */
+.card {
+  background: var(--surface-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+}
+
+.card-lift {
+  background: var(--surface-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lift), rgba(17, 26, 74, 0.05) 0px 0px 0px 1px;
+}
+
+/* Display sizes carry tight tracking — it is what makes the type read as
+   editorial rather than generic. */
+.display {
+  font-size: 48px;
+  line-height: 1.1;
+  letter-spacing: -0.96px;
+  font-weight: 600;
+  color: var(--text-heading);
+}
+
+@media (max-width: 640px) {
+  .display {
+    font-size: 34px;
+    letter-spacing: -0.68px;
+  }
+}
+
+.subheading {
+  font-size: 28px;
+  line-height: 1.1;
+  letter-spacing: -0.28px;
+  font-weight: 500;
+  color: var(--text-heading);
+}
+
+.subheading-sm {
+  font-size: 20px;
+  line-height: 1.1;
+  letter-spacing: -0.2px;
+  font-weight: 500;
+  color: var(--text-heading);
+}
+
+/* Category label: uppercase, dot prefix, no rounding — a label, not a chip. */
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-heading);
+}
+
+.tag::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 9999px;
+  background: var(--data);
+}
+
+.btn-primary {
+  background: var(--color-indigo-navy);
+  color: var(--color-pure-white);
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: var(--radius);
+  padding: 12px 20px;
+  box-shadow: var(--shadow-button);
+  transition: background-color 180ms ease;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: #1a2560;
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--color-indigo-navy);
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid var(--color-indigo-navy);
+  border-radius: var(--radius);
+  padding: 12px 20px;
+  transition: background-color 180ms ease;
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background: rgba(17, 26, 74, 0.04);
+}
+
+.btn-pill {
+  background: rgba(255, 255, 255, 0.5);
+  color: var(--color-charcoal);
+  font-size: 13px;
+  font-weight: 400;
+  border: 1px solid var(--border-hairline);
+  border-radius: var(--radius);
+  padding: 7px 16px;
+  transition: background-color 180ms ease, border-color 180ms ease;
+}
+
+.btn-pill:hover:not(:disabled) {
+  background: var(--color-pure-white);
+  border-color: var(--color-fog);
+}
+
+.btn-pill[aria-pressed="true"] {
+  background: var(--color-pure-white);
+  border-color: var(--color-indigo-navy);
+  color: var(--color-indigo-navy);
+  font-weight: 500;
+}
+
+.field {
+  width: 100%;
+  background: var(--color-pure-white);
+  border: 1px solid var(--border-hairline);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  font-size: 14px;
+  color: var(--text-body);
+}
+
+.field:focus {
+  outline: none;
+  border-color: var(--color-indigo-navy);
+  box-shadow: rgba(17, 26, 74, 0.12) 0px 0px 0px 3px;
+}
+
+.field-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-label);
+  margin-bottom: 6px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-indigo-navy);
+  outline-offset: 2px;
+}
+
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
