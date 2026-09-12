@@ -1,0 +1,557 @@
+{
+  "transactions_located": 88469,
+  "schemes_located": 3302,
+  "stations_used": 215,
+  "median_distance_m": 2178,
+  "share_within_800m": 0.2,
+  "bands": [
+    {
+      "is_strata": false,
+      "band": "<400 m",
+      "n": 4391,
+      "median": 6720.430107526881,
+      "p25": 5221.987612612613,
+      "p75": 8433.734939759037,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": false,
+      "band": "400\u2013800 m",
+      "n": 5916,
+      "median": 6017.3241337933105,
+      "p25": 4938.271604938272,
+      "p75": 7371.570854446969,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": false,
+      "band": "800 m\u20131.2 km",
+      "n": 4596,
+      "median": 5387.387387387387,
+      "p25": 4428.439641539273,
+      "p75": 6787.330316742082,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": false,
+      "band": "1.2\u20132 km",
+      "n": 8827,
+      "median": 5309.734513274337,
+      "p25": 4330.302784316909,
+      "p75": 6758.660068519223,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": false,
+      "band": "2\u20133 km",
+      "n": 10874,
+      "median": 5238.450604122247,
+      "p25": 4362.823154739603,
+      "p75": 6436.781609195402,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": false,
+      "band": "3\u20135 km",
+      "n": 11105,
+      "median": 4661.654135338345,
+      "p25": 3898.3050847457625,
+      "p75": 5666.666666666667,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": false,
+      "band": ">5 km",
+      "n": 14429,
+      "median": 4109.58904109589,
+      "p25": 3362.0689655172414,
+      "p75": 4934.210526315789,
+      "segment": "Landed"
+    },
+    {
+      "is_strata": true,
+      "band": "<400 m",
+      "n": 2912,
+      "median": 4074.074074074074,
+      "p25": 3199.4186046511627,
+      "p75": 5334.9514563106795,
+      "segment": "Strata (condo, flat)"
+    },
+    {
+      "is_strata": true,
+      "band": "400\u2013800 m",
+      "n": 4472,
+      "median": 4034.4873150105705,
+      "p25": 3285.714285714286,
+      "p75": 5178.363787375416,
+      "segment": "Strata (condo, flat)"
+    },
+    {
+      "is_strata": true,
+      "band": "800 m\u20131.2 km",
+      "n": 3740,
+      "median": 4069.9777875004206,
+      "p25": 3281.9637700183775,
+      "p75": 5310.425884955753,
+      "segment": "Strata (condo, flat)"
+    },
+    {
+      "is_strata": true,
+      "band": "1.2\u20132 km",
+      "n": 6225,
+      "median": 3593.75,
+      "p25": 2888.8888888888887,
+      "p75": 4774.774774774774,
+      "segment": "Strata (condo, flat)"
+    },
+    {
+      "is_strata": true,
+      "band": "2\u20133 km",
+      "n": 4182,
+      "median": 3648.7924094307073,
+      "p25": 2769.230769230769,
+      "p75": 4687.5,
+      "segment": "Strata (condo, flat)"
+    },
+    {
+      "is_strata": true,
+      "band": "3\u20135 km",
+      "n": 4961,
+      "median": 3164.5569620253164,
+      "p25": 2531.6455696202534,
+      "p75": 3941.176470588235,
+      "segment": "Strata (condo, flat)"
+    },
+    {
+      "is_strata": true,
+      "band": ">5 km",
+      "n": 1839,
+      "median": 2892.561983471074,
+      "p25": 2202.9411764705883,
+      "p75": 3592.299615743729,
+      "segment": "Strata (condo, flat)"
+    }
+  ],
+  "regressions": [
+    {
+      "label": "strata",
+      "n": 20261,
+      "r2": 0.578,
+      "effects": {
+        "<400 m": {
+          "n": 2747,
+          "premium_pct": 3.9,
+          "ci_low_pct": 2.3,
+          "ci_high_pct": 5.6,
+          "p": 2.3380422506218455e-06
+        },
+        "400\u2013800 m": {
+          "n": 4227,
+          "premium_pct": 2.5,
+          "ci_low_pct": 1.1,
+          "ci_high_pct": 4.0,
+          "p": 0.0005181981176685176
+        },
+        "800 m\u20131.2 km": {
+          "n": 3542,
+          "premium_pct": 2.3,
+          "ci_low_pct": 0.9,
+          "ci_high_pct": 3.7,
+          "p": 0.0012189302217811332
+        },
+        "2\u20133 km": {
+          "n": 3925,
+          "premium_pct": 1.5,
+          "ci_low_pct": 0.1,
+          "ci_high_pct": 2.8,
+          "p": 0.03464644871455144
+        },
+        "3\u20135 km": {
+          "n": 4487,
+          "premium_pct": -3.8,
+          "ci_low_pct": -5.4,
+          "ci_high_pct": -2.2,
+          "p": 4.116132418052456e-06
+        },
+        ">5 km": {
+          "n": 1606,
+          "premium_pct": -4.1,
+          "ci_low_pct": -6.8,
+          "ci_high_pct": -1.2,
+          "p": 0.004902317514391762
+        }
+      }
+    },
+    {
+      "label": "landed",
+      "n": 56814,
+      "r2": 0.462,
+      "effects": {
+        "<400 m": {
+          "n": 4391,
+          "premium_pct": 9.4,
+          "ci_low_pct": 8.1,
+          "ci_high_pct": 10.8,
+          "p": 1.8246316717778335e-47
+        },
+        "400\u2013800 m": {
+          "n": 5916,
+          "premium_pct": -0.3,
+          "ci_low_pct": -1.3,
+          "ci_high_pct": 0.7,
+          "p": 0.5177420994734984
+        },
+        "800 m\u20131.2 km": {
+          "n": 4596,
+          "premium_pct": 2.1,
+          "ci_low_pct": 1.0,
+          "ci_high_pct": 3.3,
+          "p": 0.00024612582311610905
+        },
+        "2\u20133 km": {
+          "n": 10874,
+          "premium_pct": 2.4,
+          "ci_low_pct": 1.4,
+          "ci_high_pct": 3.3,
+          "p": 4.583624752473617e-07
+        },
+        "3\u20135 km": {
+          "n": 11105,
+          "premium_pct": 2.1,
+          "ci_low_pct": 1.1,
+          "ci_high_pct": 3.1,
+          "p": 1.5883290356388544e-05
+        },
+        ">5 km": {
+          "n": 14429,
+          "premium_pct": -8.8,
+          "ci_low_pct": -9.8,
+          "ci_high_pct": -7.8,
+          "p": 1.4404226446719915e-64
+        }
+      }
+    },
+    {
+      "label": "strata_near_800",
+      "n": 20261,
+      "r2": 0.577,
+      "effects": {
+        "near_800": {
+          "n": 20261,
+          "premium_pct": 2.3,
+          "ci_low_pct": 1.2,
+          "ci_high_pct": 3.3,
+          "p": 2.6631181627192266e-05
+        }
+      }
+    },
+    {
+      "label": "strata_near_400",
+      "n": 20261,
+      "r2": 0.577,
+      "effects": {
+        "near_400": {
+          "n": 20261,
+          "premium_pct": 2.5,
+          "ci_low_pct": 1.1,
+          "ci_high_pct": 3.9,
+          "p": 0.0004534896351598382
+        }
+      }
+    },
+    {
+      "label": "strata_log_distance",
+      "n": 20261,
+      "r2": 0.577,
+      "effects": {
+        "log_distance": {
+          "n": 20261,
+          "premium_pct": -1.7,
+          "ci_low_pct": -2.2,
+          "ci_high_pct": -1.1,
+          "p": 3.1376725759545312e-09
+        }
+      }
+    },
+    {
+      "label": "strata_scheme_level_only",
+      "n": 19851,
+      "r2": 0.579,
+      "effects": {
+        "<400 m": {
+          "n": 2666,
+          "premium_pct": 3.6,
+          "ci_low_pct": 1.9,
+          "ci_high_pct": 5.3,
+          "p": 2.6188772176118847e-05
+        },
+        "400\u2013800 m": {
+          "n": 4169,
+          "premium_pct": 2.6,
+          "ci_low_pct": 1.2,
+          "ci_high_pct": 4.1,
+          "p": 0.00038004241079534216
+        },
+        "800 m\u20131.2 km": {
+          "n": 3455,
+          "premium_pct": 1.9,
+          "ci_low_pct": 0.5,
+          "ci_high_pct": 3.3,
+          "p": 0.00641435327419039
+        },
+        "2\u20133 km": {
+          "n": 3862,
+          "premium_pct": 0.9,
+          "ci_low_pct": -0.4,
+          "ci_high_pct": 2.3,
+          "p": 0.18598674371616963
+        },
+        "3\u20135 km": {
+          "n": 4432,
+          "premium_pct": -4.0,
+          "ci_low_pct": -5.6,
+          "ci_high_pct": -2.4,
+          "p": 1.3340339369955482e-06
+        },
+        ">5 km": {
+          "n": 1573,
+          "premium_pct": -4.5,
+          "ci_low_pct": -7.2,
+          "ci_high_pct": -1.7,
+          "p": 0.00206313751672656
+        }
+      }
+    },
+    {
+      "label": "strata_2022_onward",
+      "n": 17457,
+      "r2": 0.576,
+      "effects": {
+        "<400 m": {
+          "n": 2461,
+          "premium_pct": 3.2,
+          "ci_low_pct": 1.4,
+          "ci_high_pct": 5.0,
+          "p": 0.0003173225308239378
+        },
+        "400\u2013800 m": {
+          "n": 3660,
+          "premium_pct": 2.1,
+          "ci_low_pct": 0.6,
+          "ci_high_pct": 3.7,
+          "p": 0.0058883751447804675
+        },
+        "800 m\u20131.2 km": {
+          "n": 3110,
+          "premium_pct": 1.9,
+          "ci_low_pct": 0.4,
+          "ci_high_pct": 3.4,
+          "p": 0.010459297545473898
+        },
+        "2\u20133 km": {
+          "n": 3364,
+          "premium_pct": 1.4,
+          "ci_low_pct": -0.1,
+          "ci_high_pct": 2.9,
+          "p": 0.06314756040791152
+        },
+        "3\u20135 km": {
+          "n": 3701,
+          "premium_pct": -4.2,
+          "ci_low_pct": -5.9,
+          "ci_high_pct": -2.5,
+          "p": 3.1965391737597423e-06
+        },
+        ">5 km": {
+          "n": 1281,
+          "premium_pct": -3.8,
+          "ci_low_pct": -6.8,
+          "ci_high_pct": -0.7,
+          "p": 0.017147821270240685
+        }
+      }
+    },
+    {
+      "label": "strata_kl_only",
+      "n": 7627,
+      "r2": 0.475,
+      "effects": {
+        "<400 m": {
+          "n": 1612,
+          "premium_pct": 2.4,
+          "ci_low_pct": -0.1,
+          "ci_high_pct": 5.0,
+          "p": 0.05705522485337807
+        },
+        "400\u2013800 m": {
+          "n": 2579,
+          "premium_pct": 3.6,
+          "ci_low_pct": 1.5,
+          "ci_high_pct": 5.9,
+          "p": 0.0009525131264085122
+        },
+        "800 m\u20131.2 km": {
+          "n": 1832,
+          "premium_pct": 1.2,
+          "ci_low_pct": -1.0,
+          "ci_high_pct": 3.4,
+          "p": 0.2979035369465506
+        },
+        "2\u20133 km": {
+          "n": 1190,
+          "premium_pct": 2.6,
+          "ci_low_pct": 0.2,
+          "ci_high_pct": 5.1,
+          "p": 0.03299467865025122
+        },
+        "3\u20135 km": {
+          "n": 76,
+          "premium_pct": -2.4,
+          "ci_low_pct": -12.4,
+          "ci_high_pct": 8.8,
+          "p": 0.6653490958393856
+        }
+      }
+    },
+    {
+      "label": "strata_selangor_putrajaya",
+      "n": 12634,
+      "r2": 0.498,
+      "effects": {
+        "<400 m": {
+          "n": 1135,
+          "premium_pct": 7.4,
+          "ci_low_pct": 5.2,
+          "ci_high_pct": 9.6,
+          "p": 5.3467613560120175e-12
+        },
+        "400\u2013800 m": {
+          "n": 1648,
+          "premium_pct": 2.4,
+          "ci_low_pct": 0.4,
+          "ci_high_pct": 4.3,
+          "p": 0.01724261909999481
+        },
+        "800 m\u20131.2 km": {
+          "n": 1710,
+          "premium_pct": 4.2,
+          "ci_low_pct": 2.4,
+          "ci_high_pct": 6.0,
+          "p": 3.7036317020050564e-06
+        },
+        "2\u20133 km": {
+          "n": 2735,
+          "premium_pct": 1.2,
+          "ci_low_pct": -0.5,
+          "ci_high_pct": 2.8,
+          "p": 0.1614773591586255
+        },
+        "3\u20135 km": {
+          "n": 4411,
+          "premium_pct": -3.9,
+          "ci_low_pct": -5.5,
+          "ci_high_pct": -2.2,
+          "p": 4.20707191936582e-06
+        },
+        ">5 km": {
+          "n": 1606,
+          "premium_pct": -5.7,
+          "ci_low_pct": -8.4,
+          "ci_high_pct": -2.9,
+          "p": 7.033482071859635e-05
+        }
+      }
+    },
+    {
+      "label": "landed_kl_only",
+      "n": 5702,
+      "r2": 0.296,
+      "effects": {
+        "<400 m": {
+          "n": 1120,
+          "premium_pct": 0.9,
+          "ci_low_pct": -1.8,
+          "ci_high_pct": 3.8,
+          "p": 0.5094233905751366
+        },
+        "400\u2013800 m": {
+          "n": 1515,
+          "premium_pct": -1.2,
+          "ci_low_pct": -3.7,
+          "ci_high_pct": 1.3,
+          "p": 0.3392266768744976
+        },
+        "800 m\u20131.2 km": {
+          "n": 936,
+          "premium_pct": -0.6,
+          "ci_low_pct": -3.2,
+          "ci_high_pct": 2.0,
+          "p": 0.633679710390054
+        },
+        "2\u20133 km": {
+          "n": 555,
+          "premium_pct": -5.1,
+          "ci_low_pct": -7.9,
+          "ci_high_pct": -2.1,
+          "p": 0.0007773375617501567
+        },
+        "3\u20135 km": {
+          "n": 35,
+          "premium_pct": 27.0,
+          "ci_low_pct": 17.6,
+          "ci_high_pct": 37.2,
+          "p": 1.024700914440291e-09
+        }
+      }
+    },
+    {
+      "label": "landed_selangor_putrajaya",
+      "n": 51112,
+      "r2": 0.453,
+      "effects": {
+        "<400 m": {
+          "n": 3271,
+          "premium_pct": 12.9,
+          "ci_low_pct": 11.5,
+          "ci_high_pct": 14.3,
+          "p": 1.8647374334471717e-80
+        },
+        "400\u2013800 m": {
+          "n": 4401,
+          "premium_pct": 1.9,
+          "ci_low_pct": 0.8,
+          "ci_high_pct": 3.0,
+          "p": 0.0003875467421536531
+        },
+        "800 m\u20131.2 km": {
+          "n": 3660,
+          "premium_pct": 4.5,
+          "ci_low_pct": 3.3,
+          "ci_high_pct": 5.7,
+          "p": 1.9189901386330973e-13
+        },
+        "2\u20133 km": {
+          "n": 10319,
+          "premium_pct": 4.1,
+          "ci_low_pct": 3.2,
+          "ci_high_pct": 5.1,
+          "p": 3.2863927032312295e-17
+        },
+        "3\u20135 km": {
+          "n": 11070,
+          "premium_pct": 3.3,
+          "ci_low_pct": 2.4,
+          "ci_high_pct": 4.3,
+          "p": 1.0627253745031576e-11
+        },
+        ">5 km": {
+          "n": 14429,
+          "premium_pct": -7.8,
+          "ci_low_pct": -8.8,
+          "ci_high_pct": -6.8,
+          "p": 2.7165063108656337e-50
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# NAPIC exports and the transaction-level tables derived from them. The portal
+# is open but does not state a redistribution licence, so the README documents
+# the download instead. Everything aggregated (results, figures) is committed.
+pipeline/data/raw/napic/
+pipeline/data/transactions.parquet
+pipeline/outputs/joined.parquet
+
+# Cached Wikipedia pages — ~40 MB and refetched in four minutes
+pipeline/data/raw/wiki/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

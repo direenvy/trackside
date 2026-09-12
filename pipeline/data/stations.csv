@@ -1,0 +1,216 @@
+name,code,lines,operator,type,authority,opened,lat,lon,url,coord_source
+Abdullah Hukum,KD01     KJ17,2   Tanjung Malim–Port Klang Line 5   Kelana Jaya Line,KTM Rapid Rail,Commuter rail LRT,Kuala Lumpur,1 September 1998  (LRT) 28 October 2018  (KTM Komuter),3.11861,101.67278,https://en.wikipedia.org/wiki/Abdullah_Hukum_station,wikipedia
+Alam Megah,KJ35,5   Kelana Jaya Line,Rapid Rail,LRT,Shah Alam,30 June 2016,3.023361,101.572111,https://en.wikipedia.org/wiki/Alam_Megah_LRT_station,wikipedia
+Alam Sutera,SP21,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,31 October 2015,3.054778,101.656444,https://en.wikipedia.org/wiki/Alam_Sutera_LRT_station,wikipedia
+Ampang,AG18,3   Ampang Line,Rapid Rail,LRT,Ampang Jaya,16 December 1996,3.15028,101.76,https://en.wikipedia.org/wiki/Ampang_LRT_station,wikipedia
+Ampang Park (LRT),KJ9,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.15972,101.71861,https://en.wikipedia.org/wiki/Ampang_Park_LRT_station,wikipedia
+Ampang Park (MRT),PY20,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.15972,101.71861,https://en.wikipedia.org/wiki/Ampang_Park_MRT_station,wikipedia
+Angkasapuri,KD02,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,14 August 1995,3.11306,101.67333,https://en.wikipedia.org/wiki/Angkasapuri_Komuter_station,wikipedia
+Ara Damansara,KJ26,5   Kelana Jaya Line,Rapid Rail,LRT,Petaling Jaya,30 June 2016,3.108361,101.586472,https://en.wikipedia.org/wiki/Ara_Damansara_LRT_station,wikipedia
+Asia Jaya,KJ21,5   Kelana Jaya Line,Rapid Rail,LRT,Petaling Jaya,1 September 1998,3.10417,101.63778,https://en.wikipedia.org/wiki/Asia_Jaya_LRT_station,wikipedia
+Awan Besar,SP19,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,31 October 2015,3.0621,101.6706,https://en.wikipedia.org/wiki/Awan_Besar_LRT_station,wikipedia
+Bandaraya,AG6     SP6,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,16 December 1996,3.15556,101.69417,https://en.wikipedia.org/wiki/Bandaraya_LRT_station,wikipedia
+Bandar Baru Klang,SA17,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.0626799,101.4659295,https://en.wikipedia.org/wiki/Bandar_Baru_Klang_LRT_station,osm
+Bandar Bukit Tinggi,SA24,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,2.9933052,101.4459046,https://en.wikipedia.org/wiki/Bandar_Bukit_Tinggi_LRT_station,osm
+Bandar Puteri,SP27,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,31 March 2016,3.017056,101.612833,https://en.wikipedia.org/wiki/Bandar_Puteri_LRT_station,wikipedia
+Bandar Tasik Selatan,KB04     KT2     SP15,1   Batu Caves–Pulau Sebang Line 4   Sri Petaling Line 7   KLIA Transit,KTM Rapid Rail ERL,Airport rail link Commuter rail LRT,Kuala Lumpur,10 November 1995  (KTM Komuter) 11 July 1998  (LRT) 20 June 2002  (ERL),3.07611,101.71056,https://en.wikipedia.org/wiki/Bandar_Tasik_Selatan_station,wikipedia
+Bandar Tun Hussein Onn,KG29,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Bandar_Tun_Hussein_Onn_MRT_station,wikipedia
+Bandar Tun Razak,SP14,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.08972,101.71222,https://en.wikipedia.org/wiki/Bandar_Tun_Razak_LRT_station,wikipedia
+Bandar Utama,KG09     SA01,9   Kajang Line 11   Shah Alam Line,Rapid Rail,MRT LRT,Petaling Jaya,16 December 2016  (MRT) 29 June 2026 (LRT),3.1466444,101.6187472,https://en.wikipedia.org/wiki/Bandar_Utama_station,wikipedia
+Bangi,KB09,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kajang,1995,2.90389,101.78611,https://en.wikipedia.org/wiki/Bangi_Komuter_station,wikipedia
+Bangsar,KJ16,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 September 1998,3.1567,101.7017,https://en.wikipedia.org/wiki/Bangsar_LRT_station,wikipedia
+Bank Negara,KA03,1   Batu Caves–Pulau Sebang Line 2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,14 August 1995,3.15444,101.69278,https://en.wikipedia.org/wiki/Bank_Negara_Komuter_station,wikipedia
+Batang Benar,KB10,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,1995,2.83,101.82667,https://en.wikipedia.org/wiki/Batang_Benar_Komuter_station,wikipedia
+Batang Kali,KA12,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Hulu Selangor,21 April 2007,3.46833,101.63806,https://en.wikipedia.org/wiki/Batang_Kali_Komuter_station,wikipedia
+Batu 11 Cheras,KG30,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Batu_11_Cheras_MRT_station,wikipedia
+Batu Caves,KC05,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Selayang,April 2010,3.23778,101.68111,https://en.wikipedia.org/wiki/Batu_Caves_Komuter_station,wikipedia
+Batu Kentonmen,KC02,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,April 2010,3.198083,101.681167,https://en.wikipedia.org/wiki/Batu_Kentonmen_Komuter_station,wikipedia
+Batu Tiga,KD10,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Shah Alam,1995,3.07583,101.56,https://en.wikipedia.org/wiki/Batu_Tiga_Komuter_station,wikipedia
+Bukit Badak,KD13,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,3.0362,101.47036,https://en.wikipedia.org/wiki/Bukit_Badak_Komuter_station,wikipedia
+Bukit Bintang (Monorail),MR6,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.14583,101.71111,https://en.wikipedia.org/wiki/Bukit_Bintang_monorail_station,wikipedia
+Bukit Bintang (MRT),KG18A,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.1465028,101.7109472,https://en.wikipedia.org/wiki/Bukit_Bintang_MRT_station,wikipedia
+Bukit Dukung,KG31,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Bukit_Dukung_MRT_station,wikipedia
+Bukit Jalil,SP17,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.05806,101.69194,https://en.wikipedia.org/wiki/Bukit_Jalil_LRT_station,wikipedia
+Bukit Nanas,MR8,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.15611,101.70444,https://en.wikipedia.org/wiki/Bukit_Nanas_Monorail_station,wikipedia
+BU 11,SA03,11   Shah Alam Line,Rapid Rail,LRT,Petaling Jaya,29 June 2026,3.1331549,101.6058634,https://en.wikipedia.org/wiki/BU_11_LRT_station,wikipedia
+Cahaya,AG17,3   Ampang Line,Rapid Rail,LRT,Ampang Jaya,16 December 1996,3.14056,101.75639,https://en.wikipedia.org/wiki/Cahaya_LRT_station,wikipedia
+Cempaka,AG16,3   Ampang Line,Rapid Rail,LRT,Ampang Jaya,16 December 1996,3.13833,101.75278,https://en.wikipedia.org/wiki/Cempaka_LRT_station,wikipedia
+Chan Sow Lin,AG11     SP11     PY24,3   Ampang Line 4   Sri Petaling Line 12   Putrajaya Line,Rapid Rail,LRT   MRT,Kuala Lumpur,16 December 1996 (LRT) 16 March 2023 (MRT),3.12778,101.71528,https://en.wikipedia.org/wiki/Chan_Sow_Lin_LRT_station,wikipedia
+Cheras,SP12,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.1125,101.71417,https://en.wikipedia.org/wiki/Cheras_LRT_station,wikipedia
+Chow Kit,MR10,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.16722,101.69806,https://en.wikipedia.org/wiki/Chow_Kit_station,wikipedia
+Cochrane,KG21,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Cochrane_MRT_station,wikipedia
+Conlay,PY22,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.151444,101.717694,https://en.wikipedia.org/wiki/Conlay_MRT_station,wikipedia
+Cyberjaya City Centre,PY40,12   Putrajaya Line,Rapid Rail,MRT,Sepang,16 March 2023,2.938444,101.665861,https://en.wikipedia.org/wiki/Cyberjaya_City_Centre_MRT_station,wikipedia
+Cyberjaya Utara,PY39,12   Putrajaya Line,Rapid Rail,MRT,Sepang,16 March 2023,2.950083,101.65725,https://en.wikipedia.org/wiki/Cyberjaya_Utara_MRT_station,wikipedia
+Damai,KJ8,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.16444,101.72417,https://en.wikipedia.org/wiki/Damai_LRT_station_(Malaysia),wikipedia
+Damansara Damai,PY05,12   Putrajaya Line,Rapid Rail,MRT,Petaling Jaya,16 June 2022,3.199889,101.592583,https://en.wikipedia.org/wiki/Damansara_Damai_MRT_station,wikipedia
+Damansara Idaman,SA05,11   Shah Alam Line,Rapid Rail,LRT,Petaling Jaya,29 June 2026,3.12278,101.59417,https://en.wikipedia.org/wiki/Damansara_Idaman_LRT_station,wikipedia
+Dang Wangi,KJ12,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.15667,101.70167,https://en.wikipedia.org/wiki/Dang_Wangi_LRT_station,wikipedia
+Dato' Keramat,KJ7,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.165,101.73167,https://en.wikipedia.org/wiki/Dato'_Keramat_LRT_station,wikipedia
+Dato' Menteri,SA12,11   Shah Alam Line,Rapid Rail,LRT,Shah Alam,29 June 2026,3.0699,101.52127,https://en.wikipedia.org/wiki/Dato'_Menteri_LRT_station,wikipedia
+Glenmarie,KJ27     SA07,5   Kelana Jaya Line 11   Shah Alam Line,Rapid Rail,LRT,Petaling Jaya,30 June 2016  (Kelana Jaya Line) 29 June 2026 (Shah Alam Line),3.0958,101.5905,https://en.wikipedia.org/wiki/Glenmarie_LRT_station,wikipedia
+Gombak,KJ1,5   Kelana Jaya Line,Rapid Rail,LRT,Selayang,1 June 1999,3.231222,101.724417,https://en.wikipedia.org/wiki/Gombak_LRT_station,wikipedia
+Hang Tuah,AG9     SP9     MR4,3   Ampang Line 4   Sri Petaling Line 8   KL Monorail,Rapid Rail,LRT Monorail,Kuala Lumpur,16 December 1996  (LRT) 31 August 2003  (Monorail),3.14,101.70583,https://en.wikipedia.org/wiki/Hang_Tuah_station,wikipedia
+Hospital Kuala Lumpur,PY18,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.1742139,101.7016528,https://en.wikipedia.org/wiki/Hospital_Kuala_Lumpur_MRT_station,wikipedia
+Imbi,MR5,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.14278,101.70917,https://en.wikipedia.org/wiki/Imbi_Monorail_station,wikipedia
+IOI Puchong Jaya,SP24,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,31 March 2016,3.048083,101.620889,https://en.wikipedia.org/wiki/IOI_Puchong_Jaya_LRT_station,wikipedia
+Jalan Ipoh,PY15,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.189306,101.681167,https://en.wikipedia.org/wiki/Jalan_Ipoh_MRT_station,wikipedia
+Jalan Kastam,KD18,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,3.01278,101.4025,https://en.wikipedia.org/wiki/Jalan_Kastam_Komuter_station,wikipedia
+Jalan Meru,SA19,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.0590562,101.4520586,https://en.wikipedia.org/wiki/Jalan_Meru_LRT_station,osm
+Jalan Templer,KD05,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Petaling Jaya,14 August 1995,3.0835612,101.6567395,https://en.wikipedia.org/wiki/Jalan_Templer_Komuter_station,osm
+Jambatan Kota,SA20,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.047536,101.4476223,https://en.wikipedia.org/wiki/Jambatan_Kota_LRT_station,osm
+Jelatek,KJ6,5   Kelana Jaya Line,Rapid Rail,LRT,Ampang Jaya,1 June 1999,3.1673,101.7353,https://en.wikipedia.org/wiki/Jelatek_LRT_station,wikipedia
+Jinjang,PY11,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 June 2022,3.20955195,101.65606396,https://en.wikipedia.org/wiki/Jinjang_MRT_station,wikipedia
+Johan Setia,SA26,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,2.9763,101.4594,https://en.wikipedia.org/wiki/Johan_Setia_LRT_station,wikipedia
+Kajang,KB06     KG35,1   Batu Caves–Pulau Sebang Line 9   Kajang Line,KTM Rapid Rail,Commuter rail MRT,Kajang,10 November 1995  (KTM Komuter) 17 July 2017  (MRT),2.98278,101.79028,https://en.wikipedia.org/wiki/Kajang_railway_station,wikipedia
+Kajang 2,KB07,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kajang,13 March 2023,2.96264,101.79207,https://en.wikipedia.org/wiki/Kajang_2_railway_station,wikipedia
+Kampung Baru,KJ11,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.16111,101.70639,https://en.wikipedia.org/wiki/Kampung_Baru_LRT_station,wikipedia
+Kampung Batu,KC03         PY13,1   Batu Caves–Pulau Sebang Line 12   Putrajaya Line,KTM Rapid Rail,Commuter rail MRT,Kuala Lumpur,April 2010  (KTM Komuter) 16 June 2022  (MRT),3.20472,101.67556,https://en.wikipedia.org/wiki/Kampung_Batu_station,wikipedia
+Kampung Dato Harun,KD06,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Petaling Jaya,14 August 1995,3.08444,101.63222,https://en.wikipedia.org/wiki/Kampung_Dato_Harun_Komuter_station,wikipedia
+Kampung Raja Uda,KD17,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,3.02028,101.41028,https://en.wikipedia.org/wiki/Kampung_Raja_Uda_Komuter_station,wikipedia
+Kampung Selamat,PY03,12   Putrajaya Line,Rapid Rail,MRT,Petaling Jaya,16 December 2016,3.1973694,101.578425,https://en.wikipedia.org/wiki/Kampung_Selamat_MRT_station,wikipedia
+Kayu Ara,SA02,11   Shah Alam Line,Rapid Rail,LRT,Petaling Jaya,29 June 2026,3.1349,101.6168,https://en.wikipedia.org/wiki/Kayu_Ara_LRT_station,wikipedia
+Kelana Jaya,KJ24,5   Kelana Jaya Line,Rapid Rail,LRT,Petaling Jaya,1 September 1998,3.1125,101.60389,https://en.wikipedia.org/wiki/Kelana_Jaya_LRT_station,wikipedia
+Kentonmen,PY14,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.195444,101.679611,https://en.wikipedia.org/wiki/Kentonmen_MRT_station,wikipedia
+Kepong,KA06,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,1995,3.20278,101.6375,https://en.wikipedia.org/wiki/Kepong_Komuter_station,wikipedia
+Kepong Baru,PY10,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 June 2022,3.21189,101.64804,https://en.wikipedia.org/wiki/Kepong_Baru_MRT_station,wikipedia
+Kepong Sentral,KA07,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Petaling Jaya,1 July 2006,3.20861,101.62833,https://en.wikipedia.org/wiki/Kepong_Sentral_station,wikipedia
+Kerinchi,KJ18,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 September 1998,3.11528,101.66806,https://en.wikipedia.org/wiki/Kerinchi_LRT_station,wikipedia
+Kerjaya,SA09,11   Shah Alam Line,Rapid Rail,LRT,Shah Alam,29 June 2026,3.0823501,101.5619822,https://en.wikipedia.org/wiki/Kerjaya_LRT_station,osm
+Kinrara BK 5,SP22,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,31 October 2015,3.050556,101.644222,https://en.wikipedia.org/wiki/Kinrara_BK_5_LRT_station,wikipedia
+Klang,KD14,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,3.04306,101.45,https://en.wikipedia.org/wiki/Klang_Komuter_station,wikipedia
+Klang Jaya,SA23,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.0055,101.44187,https://en.wikipedia.org/wiki/Klang_Jaya_LRT_station,wikipedia
+KLCC,KJ10,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.15917,101.71389,https://en.wikipedia.org/wiki/KLCC_LRT_station,wikipedia
+KLIA T1,KE2     KT5,6   KLIA Ekspres 7   KLIA Transit,ERL,Airport rail link,Sepang,14 April 2002  (KLIA Ekspres) 20 June 2002  (KLIA Transit),2.755,101.7049,https://en.wikipedia.org/wiki/KLIA_T1_ERL_station,wikipedia
+KLIA T2,KE3     KT6,6   KLIA Ekspres 7   KLIA Transit,ERL,Airport rail link,Sepang,1 May 2014,2.74,101.69,https://en.wikipedia.org/wiki/KLIA_T2_ERL_station,wikipedia
+Kota Damansara,KG06,9   Kajang Line,Rapid Rail,MRT,Petaling Jaya,16 December 2016,3.15030194,101.5786167,https://en.wikipedia.org/wiki/Kota_Damansara_MRT_station,wikipedia
+Kuala Kubu Bharu,KA14,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Hulu Selangor,5 January 2008,3.553007,101.640006,https://en.wikipedia.org/wiki/Kuala_Kubu_Bharu_Komuter_station,wikipedia
+Kuala Lumpur,KA02,1   Batu Caves–Pulau Sebang Line 2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,14 August 1995,3.13944,101.69333,https://en.wikipedia.org/wiki/Kuala_Lumpur_railway_station,wikipedia
+Kuala Lumpur Sentral (KL Sentral),KA01     KS01     KJ15     KE1     KT1,1   Batu Caves–Pulau Sebang Line 2   Tanjung Malim–Port Klang Line 5   Kelana Jaya Line 6   KLIA Ekspres 7   KLIA Transit 10   KL Sentral–Terminal Skypark Line / 8   KL Monorail,KTM Rapid Rail ERL,Airport rail link Commuter rail LRT,Kuala Lumpur,"2001  (Kelana Jaya Line, Batu Caves-Pulau Sebang Line, Tanjung Malim-Port Klang Line) 14 April 2002  (KLIA Ekspres) 20 June 2002  (KLIA Transit) 1 May 2018  (KL Sentral-Skypark Line)",3.1343,101.6864,https://en.wikipedia.org/wiki/Kuala_Lumpur_Sentral_railway_station,wikipedia
+Kuang,KA09,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Selayang,1995,3.25806,101.555,https://en.wikipedia.org/wiki/Kuang_Komuter_station,wikipedia
+Kuchai,PY27,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.0895,101.6942,https://en.wikipedia.org/wiki/Kuchai_MRT_station,wikipedia
+Kwasa Damansara,KG04     PY01,9   Kajang Line 12   Putrajaya Line,Rapid Rail,MRT,Shah Alam,16 December 2016  (Kajang Line) 16 June 2022  (Putrajaya Line),3.176472,101.572556,https://en.wikipedia.org/wiki/Kwasa_Damansara_MRT_station,wikipedia
+Kwasa Sentral,KG05,9   Kajang Line,Rapid Rail,MRT,Shah Alam,16 December 2016,3.1699139,101.5647944,https://en.wikipedia.org/wiki/Kwasa_Sentral_MRT_station,wikipedia
+Labu,KB12,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,1995,2.75389,101.82667,https://en.wikipedia.org/wiki/Labu_Komuter_station,wikipedia
+Lembah Subang,KJ25,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,30 June 2016,3.1121,101.5912,https://en.wikipedia.org/wiki/Lembah_Subang_LRT_station,wikipedia
+Maharajalela,MR3,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.13889,101.69889,https://en.wikipedia.org/wiki/Maharajalela_Monorail_station,wikipedia
+Maluri,AG13     KG22,3   Ampang Line 9   Kajang Line,Rapid Rail,LRT MRT,Kuala Lumpur,16 December 1996  (LRT) 17 July 2017  (MRT),3.1232611,101.7269611,https://en.wikipedia.org/wiki/Maluri_station,wikipedia
+Masjid Jamek,AG7     SP7     KJ13,3   Ampang Line 4   Sri Petaling Line 5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,16 December 1996 (Ampang & Sri Petaling Lines) 1 June 1999 (Kelana Jaya Line),3.149667,101.696417,https://en.wikipedia.org/wiki/Masjid_Jamek_LRT_station,wikipedia
+Medan Tuanku,MR9,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.15917,101.69861,https://en.wikipedia.org/wiki/Medan_Tuanku_Monorail_station,wikipedia
+Mentari,SB2,B1   BRT Sunway Line,Rapid Bus,BRT,Petaling Jaya,2 June 2015,3.07628,101.610215,https://en.wikipedia.org/wiki/Mentari_BRT_station,wikipedia
+Merdeka,KG17,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.1419694,101.70205,https://en.wikipedia.org/wiki/Merdeka_MRT_station,wikipedia
+Metro Prima,PY09,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 June 2022,3.214568,101.640366,https://en.wikipedia.org/wiki/Metro_Prima_MRT_station,wikipedia
+Mid Valley,KB01,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,23 August 2004,3.11833,101.67861,https://en.wikipedia.org/wiki/Mid_Valley_Komuter_station,wikipedia
+Miharja,AG12,3   Ampang Line,Rapid Rail,LRT,Kuala Lumpur,16 December 1996,3.12083,101.7175,https://en.wikipedia.org/wiki/Miharja_LRT_station,wikipedia
+Muhibbah,SP20,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,31 October 2015,3.062056,101.6625,https://en.wikipedia.org/wiki/Muhibbah_LRT_station,wikipedia
+Mutiara Damansara,KG08,9   Kajang Line,Rapid Rail,MRT,Petaling Jaya,16 December 2016,3.1551722,101.6087944,https://en.wikipedia.org/wiki/Mutiara_Damansara_MRT_station,wikipedia
+Muzium Negara,KG15,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.1373167,101.6873361,https://en.wikipedia.org/wiki/Muzium_Negara_MRT_station,wikipedia
+Nilai,KB11,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,1995,2.80222,101.79944,https://en.wikipedia.org/wiki/Nilai_Komuter_station,wikipedia
+Padang Jawa,KD12,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Shah Alam,1995,3.0525,101.492778,https://en.wikipedia.org/wiki/Padang_Jawa_Komuter_station,wikipedia
+Pandan Indah,AG15,3   Ampang Line,Rapid Rail,LRT,Ampang Jaya,16 December 1996,3.13444,101.74639,https://en.wikipedia.org/wiki/Pandan_Indah_LRT_station,wikipedia
+Pandan Jaya,AG14,3   Ampang Line,Rapid Rail,LRT,Ampang Jaya,16 December 1996,3.13,101.73861,https://en.wikipedia.org/wiki/Pandan_Jaya_LRT_station,wikipedia
+Pantai Dalam,KD03,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,14 August 1995,3.095,101.66972,https://en.wikipedia.org/wiki/Pantai_Dalam_Komuter_station,wikipedia
+Pasar Klang,SA18,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.0678689,101.4508698,https://en.wikipedia.org/wiki/Pasar_Klang_LRT_station,osm
+Pasar Seni,KJ14     KG16,5   Kelana Jaya Line 9   Kajang Line,Rapid Rail,LRT MRT,Kuala Lumpur,1 September 1998  (LRT) 17 July 2017  (MRT),3.1425,101.69528,https://en.wikipedia.org/wiki/Pasar_Seni_station,wikipedia
+Persiaran KLCC,PY21,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.15667,101.71722,https://en.wikipedia.org/wiki/Persiaran_KLCC_MRT_station,wikipedia
+Petaling,KD04,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,14 August 1995,3.08611,101.66417,https://en.wikipedia.org/wiki/Petaling_Komuter_station,wikipedia
+Port Klang (Pelabuhan Klang),KD19,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,2.99917,101.39167,https://en.wikipedia.org/wiki/Port_Klang_Komuter_station,wikipedia
+Phileo Damansara,KG12,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,16 December 2016,3.1292861,101.6428917,https://en.wikipedia.org/wiki/Phileo_Damansara_MRT_station,wikipedia
+Plaza Rakyat,AG8     SP8,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,16 December 1996,3.14444,101.70139,https://en.wikipedia.org/wiki/Plaza_Rakyat_LRT_station,wikipedia
+Puchong Perdana,SP28,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,3.007778,101.604972,https://en.wikipedia.org/wiki/Puchong_Perdana_LRT_station,wikipedia
+Puchong Prima,SP29,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,2.999944,101.596694,https://en.wikipedia.org/wiki/Puchong_Prima_LRT_station,wikipedia
+Pudu,AG10     SP10,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,16 December 1996,3.134944,101.712,https://en.wikipedia.org/wiki/Pudu_LRT_station,wikipedia
+Pulau Sebang/Tampin,KB18,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Alor Gajah,10 October 2015,2.4635,102.22625,https://en.wikipedia.org/wiki/Pulau_Sebang/Tampin_railway_station,wikipedia
+Pusat Bandar Damansara,KG13,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,16 December 2016,3.1434111,101.6622417,https://en.wikipedia.org/wiki/Pusat_Bandar_Damansara_MRT_station,wikipedia
+Pusat Bandar Puchong,SP25,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,31 March 2016,3.033278,101.616028,https://en.wikipedia.org/wiki/Pusat_Bandar_Puchong_LRT_station,wikipedia
+Putra,KA04,1   Batu Caves–Pulau Sebang Line 2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,1995,3.16561,101.69073,https://en.wikipedia.org/wiki/Putra_Komuter_station,wikipedia
+Putra Heights,SP31     KJ37,4   Sri Petaling Line 5   Kelana Jaya Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,2.996056,101.575556,https://en.wikipedia.org/wiki/Putra_Heights_LRT_station,wikipedia
+Putra Permai,PY37,12   Putrajaya Line,Rapid Rail,MRT,Subang Jaya,16 March 2023,2.9829901,101.660426,https://en.wikipedia.org/wiki/Putra_Permai_MRT_station,osm
+Putrajaya Sentral,KT3       PY41,7   KLIA Transit 12   Putrajaya Line,ERL Rapid Rail,Airport rail link MRT,Putrajaya,20 June 2002 (ERL) 16 March 2023 (MRT),2.931528,101.670944,https://en.wikipedia.org/wiki/Putrajaya_Sentral,wikipedia
+PWTC,AG4     SP4,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.16639,101.69333,https://en.wikipedia.org/wiki/PWTC_LRT_station,wikipedia
+Raja Chulan,MR7,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.15056,101.71028,https://en.wikipedia.org/wiki/Raja_Chulan_station,wikipedia
+Raja Uda,PY19,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.1678,101.7112,https://en.wikipedia.org/wiki/Raja_Uda_MRT_station,wikipedia
+Rasa,KA13,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Hulu Selangor,21 April 2007,3.5,101.63417,https://en.wikipedia.org/wiki/Rasa_Komuter_station,wikipedia
+Rawang,KA10,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Selayang,1995,3.31889,101.575,https://en.wikipedia.org/wiki/Rawang_railway_station,wikipedia
+Rembau,KB17,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Rembau,10 October 2015,2.59306,102.094639,https://en.wikipedia.org/wiki/Rembau_railway_station,wikipedia
+Salak Selatan (KTM),KB03,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,1995,3.09833,101.705,https://en.wikipedia.org/wiki/Salak_Selatan_Komuter_station,wikipedia
+Salak Selatan (LRT),SP13,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.10194,101.70611,https://en.wikipedia.org/wiki/Salak_Selatan_LRT_station,wikipedia
+Salak Tinggi,KT4,7   KLIA Transit,ERL,Airport rail link,Sepang,20 June 2002,2.82556,101.71306,https://en.wikipedia.org/wiki/Salak_Tinggi_ERL_station,wikipedia
+Segambut,KA05,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,1995,3.18639,101.66417,https://en.wikipedia.org/wiki/Segambut_Komuter_station,wikipedia
+Segambut Utara,KA05A,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Kuala Lumpur,11 May 2026,3.192,101.65507,https://en.wikipedia.org/wiki/Segambut_Utara_Komuter_station,wikipedia
+Seksyen 7 Shah Alam,SA15,11   Shah Alam Line,Rapid Rail,LRT,Shah Alam,29 June 2026,3.0674607,101.4869681,https://en.wikipedia.org/wiki/Seksyen_7_Shah_Alam_LRT_station,osm
+Semantan,KG14,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,16 December 2016,3.151125,101.6654861,https://en.wikipedia.org/wiki/Semantan_MRT_station,wikipedia
+Senawang,KB15,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,14 May 2011,2.689194,101.97225,https://en.wikipedia.org/wiki/Senawang_Komuter_station,wikipedia
+Sentul (KTM),KC01,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,1995,3.182611,101.688806,https://en.wikipedia.org/wiki/Sentul_Komuter_station,wikipedia
+Sentul (LRT),AG2     SP2,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.17833,101.69528,https://en.wikipedia.org/wiki/Sentul_LRT_station,wikipedia
+Sentul Barat,PY16,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.1788074,101.6851789,https://en.wikipedia.org/wiki/Sentul_Barat_MRT_station,osm
+Sentul Timur,AG1     SP1,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.1859371,101.695354,https://en.wikipedia.org/wiki/Sentul_Timur_LRT_station,wikipedia
+Seputeh,KB02,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,1995,3.11361,101.68139,https://en.wikipedia.org/wiki/Seputeh_Komuter_station,wikipedia
+Serdang,KB05,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Subang Jaya,1995,3.02333,101.71611,https://en.wikipedia.org/wiki/Serdang_Komuter_station,wikipedia
+Serdang Jaya,PY33,12   Putrajaya Line,Rapid Rail,MRT,Subang Jaya,16 March 2023,3.0214905,101.708945,https://en.wikipedia.org/wiki/Serdang_Jaya_MRT_station,osm
+Serdang Raya Selatan,PY32,12   Putrajaya Line,Rapid Rail,MRT,Subang Jaya,16 March 2023,3.0284,101.7074,https://en.wikipedia.org/wiki/Serdang_Raya_Selatan_MRT_station,wikipedia
+Serdang Raya Utara,PY31,12   Putrajaya Line,Rapid Rail,MRT,Subang Jaya,16 March 2023,3.0417,101.7048,https://en.wikipedia.org/wiki/Serdang_Raya_Utara_MRT_station,wikipedia
+Seremban,KB14,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,1995,2.71889,101.94056,https://en.wikipedia.org/wiki/Seremban_railway_station,wikipedia
+Serendah,KA11,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Hulu Selangor,21 April 2007,3.37583,101.61472,https://en.wikipedia.org/wiki/Serendah_Komuter_station,wikipedia
+Seri Andalas,SA22,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.0161014,101.4407696,https://en.wikipedia.org/wiki/Seri_Andalas_LRT_station,osm
+Seri Setia,KD07,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Petaling Jaya,14 August 1995,3.0845126,101.6219552,https://en.wikipedia.org/wiki/Seri_Setia_Komuter_station,osm
+Setia Jaya (Sunway-Setia Jaya),KD08     SB1,2   Tanjung Malim–Port Klang Line B1   BRT Sunway Line,KTM Rapid Bus,Commuter rail BRT,Petaling Jaya,14 August 1995 (KTM Komuter) 2 June 2015 (BRT),3.08306,101.61111,https://en.wikipedia.org/wiki/Setia_Jaya_station,wikipedia
+Setiawangsa,KJ5,5   Kelana Jaya Line,Rapid Rail,LRT,Ampang Jaya,1 June 1999,3.1757139,101.7358583,https://en.wikipedia.org/wiki/Setiawangsa_LRT_station,wikipedia
+Shah Alam,KD11,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Shah Alam,14 August 1995,3.056389,101.525556,https://en.wikipedia.org/wiki/Shah_Alam_Komuter_station,wikipedia
+South Quay-USJ 1,SB6,B1   BRT Sunway Line,Rapid Bus,BRT,Subang Jaya,2 June 2015,3.061569,101.596649,https://en.wikipedia.org/wiki/South_Quay-USJ_1_BRT_station,wikipedia
+Sri Damansara Barat,PY06,12   Putrajaya Line,Rapid Rail,MRT,Petaling Jaya,16 June 2022,3.1982288,101.6084105,https://en.wikipedia.org/wiki/Sri_Damansara_Barat_MRT_station,osm
+Sri Damansara Sentral,PY07,12   Putrajaya Line,Rapid Rail,MRT,Petaling Jaya,16 June 2022,3.19861,101.621278,https://en.wikipedia.org/wiki/Sri_Damansara_Sentral_MRT_station,wikipedia
+Sri Damansara Timur,PY08,12   Putrajaya Line,Rapid Rail,MRT,Petaling Jaya,16 June 2022,3.2075754,101.6285855,https://en.wikipedia.org/wiki/Sri_Damansara_Timur_MRT_station,osm
+Sri Delima,PY12,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 June 2022,3.2072,101.6654,https://en.wikipedia.org/wiki/Sri_Delima_MRT_station,wikipedia
+Sri Petaling,SP18,4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,11 July 1998,3.06139,101.68694,https://en.wikipedia.org/wiki/Sri_Petaling_LRT_station,wikipedia
+Sri Rampai,KJ4,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,24 December 2010,3.19889,101.73694,https://en.wikipedia.org/wiki/Sri_Rampai_LRT_station,wikipedia
+Sri Raya,KG28,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Sri_Raya_MRT_station,wikipedia
+SS15,KJ29,5   Kelana Jaya Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,3.0758,101.5861,https://en.wikipedia.org/wiki/SS15_LRT_station,wikipedia
+SS18,KJ30,5   Kelana Jaya Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,3.0669157,101.5861896,https://en.wikipedia.org/wiki/SS18_LRT_station,osm
+Stadium Kajang,KG34,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,2.994,101.78625,https://en.wikipedia.org/wiki/Stadium_Kajang_MRT_station,wikipedia
+Stadium Shah Alam,SA10,11   Shah Alam Line,Rapid Rail,LRT,Shah Alam,29 June 2026,3.0799753,101.5491496,https://en.wikipedia.org/wiki/Stadium_Shah_Alam_LRT_station,osm
+Subang,SA06,11   Shah Alam Line,Rapid Rail,LRT,Petaling Jaya,29 June 2026,3.1062,101.591,https://en.wikipedia.org/wiki/Subang_LRT_station,wikipedia
+Subang Alam,KJ36,5   Kelana Jaya Line,Rapid Rail,LRT,Shah Alam,30 June 2016,3.00972,101.57222,https://en.wikipedia.org/wiki/Subang_Alam_LRT_station,wikipedia
+Subang Jaya,KD09     KS02     KJ28,2   Tanjung Malim–Port Klang Line 5   Kelana Jaya Line 10   KL Sentral–Terminal Skypark Line,KTM Rapid Rail,Commuter rail LRT Airport rail link,Subang Jaya,14 August 1995  (Tanjung Malim-Port Klang Line) 30 June 2016  (LRT) 1 May 2001  (KL Sentral-Skypark Line),3.08472,101.58806,https://en.wikipedia.org/wiki/Subang_Jaya_station,wikipedia
+Sultan Ismail,AG5     SP5,3   Ampang Line 4   Sri Petaling Line,Rapid Rail,LRT,Kuala Lumpur,16 December 1996,3.16111,101.69389,https://en.wikipedia.org/wiki/Sultan_Ismail_LRT_station,wikipedia
+Sungai Besi,SP16     PY29,4   Sri Petaling Line 12   Putrajaya Line,Rapid Rail,LRT MRT,Kuala Lumpur,11 July 1998 (LRT)   16 March 2023 (MRT),3.063944,101.708,https://en.wikipedia.org/wiki/Sungai_Besi_station,wikipedia
+Sungai Buloh,KA08     PY04,2   Tanjung Malim–Port Klang Line 12   Putrajaya Line,KTM Rapid Rail,Commuter rail MRT,Selayang,1995 (KTM Komuter) 16 December 2016 (MRT),3.20611,101.58028,https://en.wikipedia.org/wiki/Sungai_Buloh_station,wikipedia
+Sungai Gadut,KB16,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,14 May 2011,2.660722,101.995778,https://en.wikipedia.org/wiki/Sungai_Gadut_Komuter_station,wikipedia
+Sungai Jernih,KG33,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,3.00075,101.7840806,https://en.wikipedia.org/wiki/Sungai_Jernih_MRT_station,wikipedia
+SunMed,SB4,B1   BRT Sunway Line,Rapid Bus,BRT,Subang Jaya,2 June 2015,3.065537,101.608595,https://en.wikipedia.org/wiki/SunMed_BRT_station,wikipedia
+SunU-Monash,SB5,B1   BRT Sunway Line,Rapid Bus,BRT,Subang Jaya,2 June 2015,3.065329,101.601527,https://en.wikipedia.org/wiki/SunU-Monash_BRT_station,wikipedia
+Sunway Lagoon,SB3,B1   BRT Sunway Line,Rapid Bus,BRT,Subang Jaya,2 June 2015,3.070727,101.610622,https://en.wikipedia.org/wiki/Sunway_Lagoon_BRT_station,wikipedia
+Surian,KG07,9   Kajang Line,Rapid Rail,MRT,Petaling Jaya,16 December 2016,3.1496278,101.5935917,https://en.wikipedia.org/wiki/Surian_MRT_station,wikipedia
+Taipan,KJ32,5   Kelana Jaya Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,3.0478391,101.5901533,https://en.wikipedia.org/wiki/Taipan_LRT_station,osm
+Taman Bahagia,KJ23,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 September 1998,3.11056,101.6125,https://en.wikipedia.org/wiki/Taman_Bahagia_LRT_station,wikipedia
+Taman Connaught,KG26,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Taman_Connaught_MRT_station,wikipedia
+Taman Equine,PY36,12   Putrajaya Line,Rapid Rail,MRT,Subang Jaya,16 March 2023,2.9892208,101.6724868,https://en.wikipedia.org/wiki/Taman_Equine_MRT_station,osm
+Taman Jaya,KJ20,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 September 1998,3.10389,101.645,https://en.wikipedia.org/wiki/Taman_Jaya_LRT_station,wikipedia
+Taman Melati,KJ2,5   Kelana Jaya Line,Rapid Rail,LRT,Selayang,1 June 1999,3.21944,101.72167,https://en.wikipedia.org/wiki/Taman_Melati_LRT_station,wikipedia
+Taman Midah,KG24,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.1045,101.732194,https://en.wikipedia.org/wiki/Taman_Midah_MRT_station,wikipedia
+Taman Mutiara,KG25,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.20639,101.58028,https://en.wikipedia.org/wiki/Taman_Mutiara_MRT_station,wikipedia
+Taman Naga Emas,PY28,12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,16 March 2023,3.0777183,101.6995333,https://en.wikipedia.org/wiki/Taman_Naga_Emas_MRT_station,osm
+Taman Paramount,KJ22,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 September 1998,3.10444,101.62306,https://en.wikipedia.org/wiki/Taman_Paramount_LRT_station,wikipedia
+Taman Perindustrian Puchong,SP26,4   Sri Petaling Line,Rapid Rail,LRT,Subang Jaya,31 March 2016,3.022861,101.6135,https://en.wikipedia.org/wiki/Taman_Perindustrian_Puchong_LRT_station,wikipedia
+Taman Pertama,KG23,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017,3.1127389,101.7292889,https://en.wikipedia.org/wiki/Taman_Pertama_MRT_station,wikipedia
+Taman Selatan,SA21,11   Shah Alam Line,Rapid Rail,LRT,Klang,29 June 2026,3.0269321,101.4423939,https://en.wikipedia.org/wiki/Taman_Selatan_LRT_station,osm
+Taman Suntex,KG27,9   Kajang Line,Rapid Rail,MRT,Kajang,17 July 2017,3.0716,101.7636,https://en.wikipedia.org/wiki/Taman_Suntex_MRT_station,wikipedia
+Taman Tun Dr Ismail (TTDI),KG10,9   Kajang Line,Rapid Rail,MRT,Kuala Lumpur,16 December 2016,3.1360889,101.6307667,https://en.wikipedia.org/wiki/Taman_Tun_Dr_Ismail_MRT_station,wikipedia
+Taman Wahyu,KC04,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,April 2010,3.21444,101.67222,https://en.wikipedia.org/wiki/Taman_Wahyu_Komuter_station,wikipedia
+Tanjung Malim,KA15,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Tanjung Malim,1 June 2008,3.68444,101.518,https://en.wikipedia.org/wiki/Tanjung_Malim_railway_station,wikipedia
+Teluk Gadong,KD16,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,3.033894,101.4249444,https://en.wikipedia.org/wiki/Teluk_Gadong_Komuter_station,osm
+Teluk Pulai,KD15,2   Tanjung Malim–Port Klang Line,KTM,Commuter rail,Klang,1995,3.04083,101.43222,https://en.wikipedia.org/wiki/Teluk_Pulai_Komuter_station,wikipedia
+Terminal Skypark,KS03,10   KL Sentral–Terminal Skypark Line,KTM,Airport rail link,Subang Jaya,1 May 2018,3.13429,101.55544,https://en.wikipedia.org/wiki/Terminal_Skypark_Komuter_station,wikipedia
+Tiroi,KB13,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Seremban,1995,2.74139,101.87167,https://en.wikipedia.org/wiki/Tiroi_Komuter_station,wikipedia
+Titiwangsa,AG3     SP3     MR11     PY17,3   Ampang Line 4   Sri Petaling Line 8   KL Monorail 12   Putrajaya Line,Rapid Rail,LRT Monorail MRT,Kuala Lumpur,11 July 1998 (LRT) 31 August 2003 (Monorail) 16 March 2023 (MRT),3.173296,101.695555,https://en.wikipedia.org/wiki/Titiwangsa_station,wikipedia
+Tun Razak Exchange (TRX),KG20     PY23,9   Kajang Line 12   Putrajaya Line,Rapid Rail,MRT,Kuala Lumpur,17 July 2017  (Kajang Line)    16 March 2023  (Putrajaya Line),3.1424028,101.7201556,https://en.wikipedia.org/wiki/Tun_Razak_Exchange_MRT_station,wikipedia
+Tun Sambanthan,MR2,8   KL Monorail,Rapid Rail,Monorail,Kuala Lumpur,31 August 2003,3.13139,101.69056,https://en.wikipedia.org/wiki/Tun_Sambanthan_Monorail_station,wikipedia
+UiTM Shah Alam,SA14,11   Shah Alam Line,Rapid Rail,LRT,Shah Alam,29 June 2026,3.0627923,101.5011692,https://en.wikipedia.org/wiki/UiTM_Shah_Alam_LRT_station,osm
+Universiti,KJ19,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 September 1998,3.11444,101.66167,https://en.wikipedia.org/wiki/Universiti_LRT_station,wikipedia
+UKM,KB08,1   Batu Caves–Pulau Sebang Line,KTM,Commuter rail,Kuala Lumpur,1995,2.93944,101.78778,https://en.wikipedia.org/wiki/UKM_Komuter_station,wikipedia
+UPM,PY34,12   Putrajaya Line,Rapid Rail,MRT,Subang Jaya,16 March 2023,3.0084878,101.705391,https://en.wikipedia.org/wiki/UPM_MRT_station,osm
+USJ 7,KJ31     SB7,5   Kelana Jaya Line B1   BRT Sunway Line,Rapid Rail Rapid Bus,LRT BRT,Subang Jaya,30 June 2016 (LRT) 2 June 2015 (BRT),3.054888,101.59188,https://en.wikipedia.org/wiki/USJ_7_station,wikipedia
+USJ 21,KJ34,5   Kelana Jaya Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,3.03,101.58222,https://en.wikipedia.org/wiki/USJ_21_LRT_station,wikipedia
+Wangsa Maju,KJ3,5   Kelana Jaya Line,Rapid Rail,LRT,Kuala Lumpur,1 June 1999,3.20556,101.73139,https://en.wikipedia.org/wiki/Wangsa_Maju_LRT_station,wikipedia
+Wawasan,KJ33,5   Kelana Jaya Line,Rapid Rail,LRT,Subang Jaya,30 June 2016,3.0350524,101.5881042,https://en.wikipedia.org/wiki/Wawasan_LRT_station,osm
+16 Sierra,PY38,12   Putrajaya Line,Rapid Rail,MRT,Sepang,16 March 2023,2.965444,101.654889,https://en.wikipedia.org/wiki/16_Sierra_MRT_station,wikipedia
